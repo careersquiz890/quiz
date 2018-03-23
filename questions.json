@@ -1,0 +1,145 @@
+[
+    {
+        "text": "What subject do you prefer?",
+        "choices": [
+            {
+                "id": "computerscience",
+                "text": "Computer science"
+            },
+            {
+                "id": "media",
+                "text": "Creative media"
+            }
+        ]
+    },
+    {
+        "text": "Which one do you prefer?",
+        "choices": [
+            {
+                "id": "Hardware",
+                "text": "Hardware"
+            },
+            {
+                "id": "Software",
+                "text": "Software"
+            }
+        ],
+        "type": "computerscience"
+    },
+    {
+        "text": "If hardware then you will be a:",
+        "choices": [
+            {
+                "id": "Hardware engineer",
+                "text": "Hardware engineer"
+            }
+        ],
+        "type": "computerscience"
+    },
+    {
+        "text": "If software,would you rather:?",
+        "choices": [
+            {
+                "id": "Data",
+                "text": "Data"
+            },
+            {
+                "id": "Programming",
+                "text": "Programming"
+            },
+            {
+                "id": "Cyber security",
+                "text": "Cyber security"
+            }
+        ],
+        "type": "computerscience"
+    },
+    {
+        "text": "If cyber security then you will be have a choice of being a:",
+        "choices": [
+            {
+                "id": "Security analyst",
+                "text": "Security analyst"
+            },
+            {
+                "id": "Security engineer",
+                "text": "Security engineer"
+            },
+            {
+                "id": "cryptographer",
+                "text": "cryptographer"
+            }
+        ],
+        "type": "computerscience"
+    },
+    {
+        "text": "If programming do you prefer creatings ",
+        "choices": [
+            {
+                "id": "Software application developer",
+                "text": "Software application developer"
+            },
+            {
+                "id": "web developer",
+                "text": "Security engineer"
+            }
+        ],
+        "type": "computerscience"
+    },
+    {
+        "text": "Which one of these topics do your prefer?",
+        "choices": [
+            {
+                "id": "digital animation",
+                "text": "digital animation"
+            },
+            {
+                "id": "graphic design",
+                "text": "graphic design"
+            },
+            {
+                "id": "Game design",
+                "text": "Game design"
+            }
+        ],
+        "type": "media"
+    },
+    {
+        "text": "You have chose digital animation therefore you are destined to become an:",
+        "choices": [
+            {
+                "id": " animation technical director",
+                "text": " animation technical director"
+            },
+            {
+                "id": "videographer ",
+                "text": "videographer "
+            },
+            {
+                "id": "3d modeler",
+                "text": "3d modeler"
+            }
+        ],
+        "type": "media"
+    },
+    {
+        "text": "You have chosen a graphic designer therefore you are destined to become a:",
+        "choices": [
+            {
+                "id": "Graphic designer",
+                "text": "Graphic designer-creating visual concepts by hand or using computer software,to communicate ideas that inspire,inform or captivate consumers"
+            }
+        ],
+        "type": "media"
+    },
+    {
+        "text": "You have chosen game design therefore you are destined to become a:",
+        "choices": [
+            {
+                "id": "Game designer",
+                "text": "Game designers-choice between creating 2D/3D characters or creating software programmes"
+            }
+        ],
+        "type": "media"
+    }
+]
